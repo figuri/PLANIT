@@ -1,7 +1,7 @@
 # PLANit
 Planner Webpage to store your daily schedule and track the time.
 
-[Visit the deployed site]()
+[Visit the deployed site](https://figuri.github.io/PLANIT/)
 
 ## **Technology Used** 
 | Technology Used         | Resource URL           | 
@@ -44,6 +44,8 @@ W3 schools was instrumental in helping me understand and practice numerous conce
 * **[W3schools.com](https://www.w3schools.com/)**
 
 * **[Mozzilawebdocs.com](https://developer.mozilla.org/en-US/)**
+
+* **[GithubCopilot](github.com)**
 
 
 Thanks for checking this out. 
