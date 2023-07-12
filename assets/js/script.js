@@ -24,7 +24,7 @@ $(document).ready(function() {
         eventCol.addClass("future");
       }
   
-      var saveBtn = $("<button>").addClass("col-2 saveBtn").html("<i class='fas fa-save'></i>");
+      var saveBtn = $("<button>").addClass("col-2 saveBtn").html("<i class='fas fa-save'></i>").text("Save");
   
       var savedEvent = localStorage.getItem(businessHours[i]);
       if (savedEvent) {
