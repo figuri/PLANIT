@@ -57,3 +57,10 @@
 body {
     background-color: lightgrey;
 }
+
+.col-8 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
