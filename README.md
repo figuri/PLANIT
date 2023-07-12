@@ -12,10 +12,12 @@ Planner Webpage to store your daily schedule and track the time.
 |Vs Code| [https://https://code.visualstudio.com/](https://code.visualstudio.com/)
 |Github| [https://github.com](https://github.com)    |
 |JavaScript| [https://developer.mozilla.org/en-US/docs/Web/javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)     |
+| Jquery        | [Jquery.com](https://jquery.com/)
+| BootStrap Wireframe | [Bootstrap.com](https://getbootstrap.com/)
 
 ### -*Bootstrap and Css*-
 
-This planner webpage is designed so that with little effort you can layout the plans of your day and be able to refer back to and edit your plans and make notes and save your changes to the local storage so you dont lose any data !
+This planner webpage is designed so that with little effort you can layout the plans of your day and be able to refer back to and edit your plans and make notes and save your changes to the local storage so you dont lose any data ! This is thanks in no small part to bootstrap styling that I included in my script and html file.
 
 ### Learning every single day
 
