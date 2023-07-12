@@ -40,3 +40,15 @@
     border-radius: 5px;
     font-family: 'Roboto', sans-serif;
 }
+
+.past {
+    background-color: salmon;
+}
+
+.present {
+    background-color: lightblue;
+}
+
+.future {
+    background-color: lightgreen;
+}
